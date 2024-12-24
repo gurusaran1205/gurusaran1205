@@ -1,11 +1,12 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/10951018/file/original-d53f68cdc20daa2a2f31037fed7375e2.gif)
-<h1 align="center">Hi 👋, I'm Gurusaran A B</h1>
-<h3 align="center"> A Professional Developer from India </h3>
+<h1 align="center">Hey👋</h1>
+<h1 align="center"> I'm Gurusaran A B </h1>
+<h3 align="center"> Developer from India </h3>
 <img align='right' alt='coding' width='400' src='https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif'></img>
 
 - 🌱 I’m currently learning **React-Native, Firebase**
 
-- 📫 How to reach me **gurusaranofficial1@gmail.com**
+- 📫 Reach me @ **gurusaranofficial1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
