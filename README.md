@@ -1,15 +1,9 @@
-<table align='center'>
-  <tr>
-    <td style="vertical-align: top;">
-      <h1>Hey👋</h1>
-      <h1>I'm Gurusaran A B</h1>
-      <h3>Developer from India</h3>
-    </td>
-    <td>
-      <img alt="coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
-    </td>
-  </tr>
-</table>
+<p align='center'><img align='center' alt='coding' width='400' style="position: absolute; : 300px" src='https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif'></img></p> 
+<h1 align="center">Hi 👋</h1>
+<h1 align="center" > I'm Gurusaran A B</h1>
+<h3 align="center">A Developer from India </h3>
+
+
 
 - 🌱 I’m currently learning **React-Native, Firebase**
 
